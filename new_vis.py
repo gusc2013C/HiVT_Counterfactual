@@ -1,3 +1,4 @@
+from argoverse.data_loading.argoverse_forecasting_loader import ArgoverseForecastingLoader
 from argoverse.visualization.visualize_sequences import viz_sequence
 
 root_dir = '/home/be-happy/GSC/forecasting_test_v1.1/val/data/'
